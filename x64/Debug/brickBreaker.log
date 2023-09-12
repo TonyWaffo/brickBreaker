@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Tony\Desktop\Summer project\brickBreaker\main.cpp(163,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tony\Desktop\Summer project\brickBreaker\main.cpp(184,63): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tony\Desktop\Summer project\brickBreaker\main.cpp(187,63): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tony\Desktop\Summer project\brickBreaker\main.cpp(188,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tony\Desktop\Summer project\brickBreaker\main.cpp(188,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  brickBreaker.vcxproj -> C:\Users\Tony\Desktop\Summer project\brickBreaker\x64\Debug\brickBreaker.exe
