@@ -434,7 +434,7 @@ public:
 };
 
 int main() {
-	cout << "test" << endl;
+	// cout << "test" << endl;
 	Game* game;
 
 	game = new Game(1540, 900, "BricK breaker Game");
